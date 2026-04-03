@@ -50,9 +50,9 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - Employee satisfaction varies across categories, indicating areas for HR improvement
 - Gender distribution shows a slightly higher proportion of female employees
 ## 🚀 How to Use
-1. Download the .pbix file from this repository
-2. Open it in Power BI Desktop
-3. Use filters and visuals to explore insights interactivel
+**1.** Download the .pbix file from this repository
+**2.** Open it in Power BI Desktop
+**3.** Use filters and visuals to explore insights interactivel
 
 ## 🙌 Conclusion
 
