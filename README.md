@@ -22,17 +22,17 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
   - Female: 57%
 - Total Salary Expense: 21M
 ### 🔹 Key Visualizations
-#### 📌 Department-wise Employee Distribution
+- #### 📌 Department-wise Employee Distribution
 Identify which departments have the highest workforce concentration
-#### 📌 Employee Performance Analysis
+- #### 📌 Employee Performance Analysis
 Breakdown of employees based on performance categories (Fully Meets, Exceeds, Needs Improvement, PIP)
-#### 📌 Employee Satisfaction Levels
+- #### 📌 Employee Satisfaction Levels
 Insights into satisfaction categories such as High, Medium, Low, and Very Low
-#### 📌 Recruitment Source Analysis
+- #### 📌 Recruitment Source Analysis
 Evaluate effectiveness of hiring channels like Indeed, LinkedIn, Google, etc.
-#### 📌 Marital Status Distribution
+- #### 📌 Marital Status Distribution
 Understand workforce demographics
-#### 📌 Geographical Distribution (Map View)
+- #### 📌 Geographical Distribution (Map View)
 Visual representation of employees across different locations
 ## 🎛️ Interactive Features
 Dynamic Year Filter (2006–2018)
