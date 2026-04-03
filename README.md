@@ -35,20 +35,20 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - #### 📌 Geographical Distribution (Map View)
   Visual representation of employees across different locations
 ## 🎛️ Interactive Features
-Dynamic Year Filter (2006–2018)
-Department-level filtering
-Fully interactive visuals for deep data exploration
+- Dynamic Year Filter (2006–2018)
+- Department-level filtering
+- Fully interactive visuals for deep data exploration
 ## 🛠️ Tools & Technologies
-Power BI Desktop (.pbix)
-CSV Dataset (HR Data)
-Data Cleaning & Transformation using Power Query
-Data Modeling & DAX for KPI calculations
+- Power BI Desktop (.pbix)
+- CSV Dataset (HR Data)
+- Data Cleaning & Transformation using Power Query
+- Data Modeling & DAX for KPI calculations
 ## 💡 Key Insights
-Certain departments like Production and IT/IS have higher employee concentration
-A significant portion of employees fall under Fully Meets performance category
-Recruitment platforms like Indeed and LinkedIn are major hiring sources
-Employee satisfaction varies across categories, indicating areas for HR improvement
-Gender distribution shows a slightly higher proportion of female employees
+- Certain departments like Production and IT/IS have higher employee concentration
+- A significant portion of employees fall under Fully Meets performance category
+- Recruitment platforms like Indeed and LinkedIn are major hiring sources
+- Employee satisfaction varies across categories, indicating areas for HR improvement
+- Gender distribution shows a slightly higher proportion of female employees
 ## 🚀 How to Use
 Download the .pbix file from this repository
 Open it in Power BI Desktop
