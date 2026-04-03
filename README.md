@@ -7,11 +7,11 @@ The HR Analytics Dashboard is a comprehensive and interactive Power BI solution 
 This dashboard enables HR teams and business stakeholders to monitor key HR metrics and make informed, data-driven decisions to improve organizational efficiency and employee retention.
 
 ## 🎯 Key Objectives
-Track overall employee headcount and workforce status
-Analyze employee attrition and active workforce ratio
-Understand department-wise employee distribution
-Evaluate employee performance and satisfaction levels
-Identify trends based on gender, marital status, and recruitment sources
+- Track overall employee headcount and workforce status
+- Analyze employee attrition and active workforce ratio
+- Understand department-wise employee distribution
+- Evaluate employee performance and satisfaction levels
+- Identify trends based on gender, marital status, and recruitment sources
 ## 📊 Dashboard Highlights
 ### 🔹 KPI Summary
 Total Employees: 311
