@@ -23,17 +23,17 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - Total Salary Expense: 21M
 ### 🔹 Key Visualizations
 - #### 📌 Department-wise Employee Distribution
-  Identify which departments have the highest workforce concentration
+          Identify which departments have the highest workforce concentration
 - #### 📌 Employee Performance Analysis
-  Breakdown of employees based on performance categories (Fully Meets, Exceeds, Needs Improvement, PIP)
+          Breakdown of employees based on performance categories (Fully Meets, Exceeds, Needs Improvement, PIP)
 - #### 📌 Employee Satisfaction Levels
-  Insights into satisfaction categories such as High, Medium, Low, and Very Low
+          Insights into satisfaction categories such as High, Medium, Low, and Very Low
 - #### 📌 Recruitment Source Analysis
-  Evaluate effectiveness of hiring channels like Indeed, LinkedIn, Google, etc.
+          Evaluate effectiveness of hiring channels like Indeed, LinkedIn, Google, etc.
 - #### 📌 Marital Status Distribution
-  Understand workforce demographics
+          Understand workforce demographics
 - #### 📌 Geographical Distribution (Map View)
-  Visual representation of employees across different locations
+          Visual representation of employees across different locations
 ## 🎛️ Interactive Features
 - Dynamic Year Filter (2006–2018)
 - Department-level filtering
@@ -50,9 +50,9 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - Employee satisfaction varies across categories, indicating areas for HR improvement
 - Gender distribution shows a slightly higher proportion of female employees
 ## 🚀 How to Use
-Download the .pbix file from this repository
-Open it in Power BI Desktop
-Use filters and visuals to explore insights interactivel
+1. Download the .pbix file from this repository
+2. Open it in Power BI Desktop
+3. Use filters and visuals to explore insights interactivel
 
 ## 🙌 Conclusion
 
