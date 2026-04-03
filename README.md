@@ -18,8 +18,8 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - Active Employees: 207 (67%)
 - Terminated Employees: 104 (33%)
 - Gender Distribution:
-- Male: 43%
-- Female: 57%
+  - Male: 43%
+  - Female: 57%
 - Total Salary Expense: 21M
 ### 🔹 Key Visualizations
 #### 📌 Department-wise Employee Distribution
