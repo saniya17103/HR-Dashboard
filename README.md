@@ -14,13 +14,13 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - Identify trends based on gender, marital status, and recruitment sources
 ## 📊 Dashboard Highlights
 ### 🔹 KPI Summary
-Total Employees: 311
-Active Employees: 207 (67%)
-Terminated Employees: 104 (33%)
-Gender Distribution:
-Male: 43%
-Female: 57%
-Total Salary Expense: 21M
+- Total Employees: 311
+- Active Employees: 207 (67%)
+- Terminated Employees: 104 (33%)
+- Gender Distribution:
+- Male: 43%
+- Female: 57%
+- Total Salary Expense: 21M
 ### 🔹 Key Visualizations
 #### 📌 Department-wise Employee Distribution
 Identify which departments have the highest workforce concentration
