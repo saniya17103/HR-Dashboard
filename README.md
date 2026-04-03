@@ -51,7 +51,9 @@ This dashboard enables HR teams and business stakeholders to monitor key HR metr
 - Gender distribution shows a slightly higher proportion of female employees
 ## 🚀 How to Use
 **1.**  Download the .pbix file from this repository
+
 **2.**  Open it in Power BI Desktop
+
 **3.**  Use filters and visuals to explore insights interactivel
 
 ## 🙌 Conclusion
